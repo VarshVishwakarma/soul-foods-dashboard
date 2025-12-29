@@ -3,6 +3,16 @@
 # 💎 SOUL FOODS: PINK MORSEL SUITE
 ### *Executive Sales Intelligence & Strategic Analytics*
 
+<div align="center">
+
+<img src="YOUR_GITHUB_VIDEO_URL_HERE" width="900" alt="Executive Dashboard Demo">
+
+<br>
+<i>Live demonstration of the Soul Foods Strategic Decision Engine</i>
+<br>
+
+</div>
+
 [![Live Demo](https://img.shields.io/badge/LIVE-DASHBOARD-00C853?style=for-the-badge&logo=render&logoColor=white)](https://github.com/VarshVishwakarma/soul-foods-dashboard)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/Build-Passing-008CFF?style=for-the-badge&logo=github-actions&logoColor=white)]()
