@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/2d7a3421-da86-4663-8aff-472d02a41f46" width="900" alt="Executive Dashboard Demo">
+<img src="https://github.com/user-attachments/assets/2d7a3421-da86-4663-8aff-472d02a41f46" width="900" autoplay muted loop>
 
 <br>
 <i>Live demonstration of the Soul Foods Strategic Decision Engine</i>
