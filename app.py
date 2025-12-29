@@ -148,4 +148,7 @@ def update_dashboard(region, start, end, smoothing):
     return kpi_cards, insight_text, fig_main, fig_comp
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(
+        host="0.0.0.0",
+        port=int(os.environ.get("PORT", 8050))
+    )
