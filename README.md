@@ -4,13 +4,11 @@
 ### *Executive Sales Intelligence & Strategic Analytics*
 
 <div align="center">
-
-<img src="https://github.com/user-attachments/assets/2d7a3421-da86-4663-8aff-472d02a41f46" width="900" autoplay muted loop>
-
-<br>
-<i>Live demonstration of the Soul Foods Strategic Decision Engine</i>
-<br>
-
+  <video src="https://github.com/user-attachments/assets/2d7a3421-da86-4663-8aff-472d02a41f46" width="100%" autoplay muted loop>
+    Your browser does not support the video tag.
+  </video>
+  <br>
+  <i>Live demonstration of the Soul Foods Strategic Decision Engine</i>
 </div>
 
 [![Live Demo](https://img.shields.io/badge/LIVE-DASHBOARD-00C853?style=for-the-badge&logo=render&logoColor=white)](https://github.com/VarshVishwakarma/soul-foods-dashboard)
